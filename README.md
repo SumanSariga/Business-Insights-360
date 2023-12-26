@@ -3,9 +3,11 @@
 Link to Interactive Dashboard : https://app.powerbi.com/view?r=eyJrIjoiZGExNDdiYjYtZmUxMS00OWYzLWJjY2MtMmRiNmFkZjM5MjE5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 **Problem Statement**
+
 AtliQ Hardware, a rapidly expanding global consumer electronics company, has been grappling with unwieldy Excel files for data analytics. This outdated approach has been hindering effective decision-making and causing significant losses. In response, they urgently sought agile, data-driven decision-making.
 
 **Objective**
+
 Create an engaging report that provides valuable insights for finance, sales, marketing, supply chain, and executive teams, using provided mockup dashboards as a reference.
 
 **Key Takeaways**
@@ -26,7 +28,7 @@ Create an engaging report that provides valuable insights for finance, sales, ma
 
 • Creating a User-Friendly Home Page with Navigation Buttons 
 
-**Distinct Dashboards:**
+**Distinct Dashboards**
 
 • Finance View - P & L statement,identify top/bottom products/customers, track Net Sales performance, and analyze key KPIs.
 
@@ -38,8 +40,7 @@ Create an engaging report that provides valuable insights for finance, sales, ma
 
 • Executive View -  Analyze subzones, track market share trends, and identify top customers/products by revenue.
 
-**Insights**
-
+**Important Insights from the Dashboard**
 
 • Maximizing Profitability: Attained a substantial Gross Margin % of 48.55%, highlighting a strong potential for profit optimization across segments.
 
