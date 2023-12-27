@@ -1,8 +1,7 @@
 # Business-Insights-360
 
-Link to Interactive Dashboard : https://app.powerbi.com/view?r=eyJrIjoiZGExNDdiYjYtZmUxMS00OWYzLWJjY2MtMmRiNmFkZjM5MjE5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+Link to Interactive Dashboard :  _[Business Insights 360 Project](https://app.powerbi.com/view?r=eyJrIjoiZGExNDdiYjYtZmUxMS00OWYzLWJjY2MtMmRiNmFkZjM5MjE5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)_ 
 
-**Problem Statement**
 
 AtliQ Hardware, a rapidly expanding global consumer electronics company, has been grappling with unwieldy Excel files for data analytics. This outdated approach has been hindering effective decision-making and causing significant losses. In response, they urgently sought agile, data-driven decision-making.
 
@@ -30,15 +29,15 @@ Create an engaging report that provides valuable insights for finance, sales, ma
 
 **Distinct Dashboards**
 
-• Finance View - P & L statement,identify top/bottom products/customers, track Net Sales performance, and analyze key KPIs.
+• Finance View - P & L statement,identify top/bottom products/customers, track Net Sales performance, and analyze key KPIs.  _[Finance View](https://github.com/SumanSariga/Business-Insights-360/blob/main/Finance%20View.png)_ 
 
-• Sales View - Evaluate customer and product performance.
+• Sales View - Evaluate customer and product performance.  _[Sales View](https://github.com/SumanSariga/Business-Insights-360/blob/main/Sales%20View.png)_ 
 
-• Marketing View - Investigate product performance thoroughly.
+• Marketing View - Investigate product performance thoroughly.  _[Marketing View](https://github.com/SumanSariga/Business-Insights-360/blob/main/Marketing%20View.png)_ 
 
-• Supply Chain View - Monitor demand and supply in one place.
+• Supply Chain View - Monitor demand and supply in one place.  _[Supply Chain View](https://github.com/SumanSariga/Business-Insights-360/blob/main/Supply%20Chain%20View.png)_ 
 
-• Executive View -  Analyze subzones, track market share trends, and identify top customers/products by revenue.
+• Executive View -  Analyze subzones, track market share trends, and identify top customers/products by revenue.  _[Executive View](https://github.com/SumanSariga/Business-Insights-360/blob/main/Executive%20View.png)_ 
 
 **Important Insights from the Dashboard**
 
